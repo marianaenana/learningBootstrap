@@ -1,0 +1,16 @@
+* {
+  font-family: sans-serif;
+  background-image: url(../img/masthead_background.jpg);
+  background-position: center;
+  background-repeat: repeat-x;
+  position: static;
+}
+#siteheader{
+  background-size: 370px;
+}
+.logo{
+  float: left;
+}
+.form{
+  float: right;
+}
